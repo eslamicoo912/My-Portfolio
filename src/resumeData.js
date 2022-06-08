@@ -48,6 +48,10 @@ let resumeData = {
             "https://github.com/eslamicoo912/Contact-Manager-App-Using-React",
         },
         {
+          title: "Quiz App",
+          link: "https://github.com/eslamicoo912/Quiz-App",
+        },
+        {
           title: "My Personal Portfolio",
           link: "https://eslamicoo912.github.io",
         },
@@ -85,6 +89,11 @@ let resumeData = {
       name: "Contacts Manager",
       description: "Web App Using React.js",
       imgurl: "images/portfolio/contacts.png",
+    },
+    {
+      name: "Quiz App",
+      description: "Web App Using React.js",
+      imgurl: "images/portfolio/quiz.jpg",
     },
   ],
   testimonials: [
